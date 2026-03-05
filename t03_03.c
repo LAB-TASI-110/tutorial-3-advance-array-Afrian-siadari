@@ -50,7 +50,7 @@ int main() {
     printf("%d\n", total_nilai);
     printf("%.2f\n", rata_rata);
     printf("%d\n", count_above_average);
-    printf("%d\n", rentang_nilai); // Menampilkan rentang nilai
+    printf("%d\n", rentang_nilai); // Menampilkan rentang nilai.
 
     return 0;
 }

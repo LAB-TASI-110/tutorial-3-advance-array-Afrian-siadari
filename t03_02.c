@@ -17,7 +17,7 @@ int main() {
 
     rata_rata = (double)total_nilai / n;
 
-    // Menghitung banyaknya mahasiswa yang nilainya di atas atau sama dengan rata-rata
+    // Menghitung banyaknya mahasiswa yang nilainya di atas atau sama dengan rata-rata.
     for (i = 0; i < n; i++) {
         if (nilai[i] >= rata_rata) {
             count_above_average++;
